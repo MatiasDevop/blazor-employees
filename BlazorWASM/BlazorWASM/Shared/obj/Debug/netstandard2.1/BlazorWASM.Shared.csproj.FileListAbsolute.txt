@@ -1,0 +1,17 @@
+D:\Blazor\BlazorWASM\BlazorWASM\Shared\bin\Debug\netstandard2.1\BlazorWASM.Shared.deps.json
+D:\Blazor\BlazorWASM\BlazorWASM\Shared\bin\Debug\netstandard2.1\BlazorWASM.Shared.dll
+D:\Blazor\BlazorWASM\BlazorWASM\Shared\bin\Debug\netstandard2.1\BlazorWASM.Shared.pdb
+D:\Blazor\BlazorWASM\BlazorWASM\Shared\obj\Debug\netstandard2.1\BlazorWASM.Shared.AssemblyInfoInputs.cache
+D:\Blazor\BlazorWASM\BlazorWASM\Shared\obj\Debug\netstandard2.1\BlazorWASM.Shared.AssemblyInfo.cs
+D:\Blazor\BlazorWASM\BlazorWASM\Shared\obj\Debug\netstandard2.1\BlazorWASM.Shared.csproj.CoreCompileInputs.cache
+D:\Blazor\BlazorWASM\BlazorWASM\Shared\obj\Debug\netstandard2.1\BlazorWASM.Shared.dll
+D:\Blazor\BlazorWASM\BlazorWASM\Shared\obj\Debug\netstandard2.1\BlazorWASM.Shared.pdb
+D:\Blazor\employees\BlazorWASM\BlazorWASM\Shared\bin\Debug\netstandard2.1\BlazorWASM.Shared.deps.json
+D:\Blazor\employees\BlazorWASM\BlazorWASM\Shared\bin\Debug\netstandard2.1\BlazorWASM.Shared.dll
+D:\Blazor\employees\BlazorWASM\BlazorWASM\Shared\bin\Debug\netstandard2.1\BlazorWASM.Shared.pdb
+D:\Blazor\employees\BlazorWASM\BlazorWASM\Shared\obj\Debug\netstandard2.1\BlazorWASM.Shared.csprojAssemblyReference.cache
+D:\Blazor\employees\BlazorWASM\BlazorWASM\Shared\obj\Debug\netstandard2.1\BlazorWASM.Shared.AssemblyInfoInputs.cache
+D:\Blazor\employees\BlazorWASM\BlazorWASM\Shared\obj\Debug\netstandard2.1\BlazorWASM.Shared.AssemblyInfo.cs
+D:\Blazor\employees\BlazorWASM\BlazorWASM\Shared\obj\Debug\netstandard2.1\BlazorWASM.Shared.csproj.CoreCompileInputs.cache
+D:\Blazor\employees\BlazorWASM\BlazorWASM\Shared\obj\Debug\netstandard2.1\BlazorWASM.Shared.dll
+D:\Blazor\employees\BlazorWASM\BlazorWASM\Shared\obj\Debug\netstandard2.1\BlazorWASM.Shared.pdb

@@ -1,0 +1,55 @@
+﻿@page "/employeeList"
+
+@using BlazorWASM.Shared
+
+@inject NavigationManager NavigationManager
+@inject HttpClient Http
+
+    <h2> Employee Details</h2>
+    <p>
+        <a href="/addemployee">Create new Employee</a>
+    </p>
+@if (empList == null)
+{
+    <p>Loading....</p>
+}
+else
+{
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Designation</th>
+                    <th>Deparment</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var emp in empList)
+                {
+                    <tr>
+                        <td>@emp.Name</td>
+                        <td>@emp.Designation</td>
+                        <td>@emp.Deparment</td>
+
+                        <td>
+                            <a href="/editemployee/@emp.EmployeeId">Edit</a>
+                            <a href="/deleteemployee/@emp.EmployeeId">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+}
+
+@code {
+    EmployeeInfo[] empList;
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadData();
+    }
+    protected async Task LoadData()
+    {
+        empList = await Http.GetJsonAsync<EmployeeInfo[]>("http://localhost:53164/api/EmployeeInfoes");
+    }
+}

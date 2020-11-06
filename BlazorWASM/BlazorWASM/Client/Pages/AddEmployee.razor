@@ -1,0 +1,48 @@
+﻿@page "/addemployee"
+
+@using BlazorWASM.Shared
+
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+
+    <h2> create Employee</h2>
+    <hr />
+    <form>
+        <div class="row">
+            <div class="col-md-8">
+                <div class="form-group">
+                    <label for="EmployeeName" class="control-label">Name</label>
+                    <input for="EmployeeName" class="form-control" @bind="@emp.Name" />
+                </div>
+                <div class="form-group">
+                    <label for="Designation" class="control-label">Designation</label>
+                    <input for="Designation" class="form-control" @bind="@emp.Designation" />
+                </div>
+                <div class="form-group">
+                    <label for="Department" class="control-label">Department</label>
+                    <input for="Department" class="form-control" @bind="@emp.Deparment" />
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="form-group">
+                    <input type="button" class="btn btn-primary" @onclick="@CreateEmployee" value="Save" />
+                    <input type="button" class="btn" @onclick="@Cancel" value="Cancel" />
+                </div>
+            </div>
+        </div>
+    </form>
+@code {
+    EmployeeInfo emp = new EmployeeInfo();
+    protected async Task CreateEmployee()
+    {
+        await Http.PostJsonAsync("http://localhost:53164/api/EmployeeInfoes", emp);
+        NavigationManager.NavigateTo("employeeList");
+    }
+    void Cancel()
+    {
+        NavigationManager.NavigateTo("employeeList");
+    }
+
+}
