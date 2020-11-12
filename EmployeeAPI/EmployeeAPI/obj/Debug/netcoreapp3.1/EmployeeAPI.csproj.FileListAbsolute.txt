@@ -305,3 +305,4 @@ D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\staticwebass
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.dll
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.pdb
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.genruntimeconfig.cache
+D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.csprojAssemblyReference.cache
