@@ -14,5 +14,14 @@ namespace EmployeeAPI
 
         }
         public DbSet<EmployeeInfo> EmployeeInfos { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // modelBuilder.Entity<EmployeeInfo>().HasData(
+            //     new EmployeeInfo { EmployeeId = "1", Name = "Piter", Designation = "ddd", Deparment = "small size" },
+            //     new EmployeeInfo { EmployeeId = "2", Name = "Elver" , Designation = "dedasda", Deparment = "king size" },
+            //     new EmployeeInfo { EmployeeId = "2", Name = "Jhon", Designation = "ererere", Deparment = "big" }
+            //     );
+        }
     }
 }

@@ -37,7 +37,7 @@
     EmployeeInfo emp = new EmployeeInfo();
     protected async Task CreateEmployee()
     {
-        await Http.PostJsonAsync("http://localhost:53164/api/EmployeeInfoes", emp);
+        await Http.PostJsonAsync("http://localhost:8083/api/EmployeeInfoes", emp);
         NavigationManager.NavigateTo("employeeList");
     }
     void Cancel()

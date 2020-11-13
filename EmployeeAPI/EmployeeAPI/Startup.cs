@@ -37,7 +37,8 @@ namespace EmployeeAPI
 
             services.AddControllers();
             services.AddDbContext<EmployeeDbContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString("EmployeeDbContext"))
+                options.UseSqlServer(Configuration.GetConnectionString("EmployeeDbContext"),
+                b => b.MigrationsAssembly(typeof(EmployeeDbContext).Assembly.FullName))
             );
         }
 

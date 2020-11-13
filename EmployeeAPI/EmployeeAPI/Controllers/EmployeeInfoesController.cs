@@ -24,15 +24,15 @@ namespace EmployeeAPI.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<EmployeeInfo>>> GetEmployeeInfos()
         {
-            var list = new List<EmployeeInfo>();
-            var employee = new EmployeeInfo(){
-                EmployeeId = "321312312",
-                Name = "Bruce",
-                Designation = "superheroe",
-                Deparment = "small size"
-            };
-            list.Add(employee);
-            return  list.ToList();//_context.EmployeeInfos.ToListAsync();
+            // var list = new List<EmployeeInfo>();
+            // var employee = new EmployeeInfo(){
+            //     EmployeeId = "321312312",
+            //     Name = "Bruce",
+            //     Designation = "superheroe",
+            //     Deparment = "small size"
+            // };
+            //list.Add(employee);
+            return  await _context.EmployeeInfos.ToListAsync();//list.ToList();
         }
 
         // GET: api/EmployeeInfoes/5

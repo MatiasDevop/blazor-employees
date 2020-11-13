@@ -580,7 +580,6 @@ D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\Razor\
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\BlazorWASM.Client.RazorTargetAssemblyInfo.cache
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\BlazorWASM.Client.csproj.CopyComplete
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
-D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\3JX7pFEe9dAI1tZe-4heDdEhKetYaV5fPyEVnE7qJyI=.hash
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -634,14 +633,12 @@ D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integr
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\stvlm7uCxicneU3dDxXZpcaFCDjItYs-5VR1ILiD1S8=.hash
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\Bxc4luSxBaMPyVbfrOasn05lRlIRgKraMAkTsRKrrdg=.hash
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
-D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\SJJRWv3YmRWp7PTHQUYiRiWhKh3VjDs_lp1youPLqpI=.hash
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorWASM.Client.dll.gz
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
@@ -768,3 +765,6 @@ D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\static
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\staticwebassets\BlazorWASM.Client.StaticWebAssets.xml
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\BlazorWASM.Client.dll
 D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\BlazorWASM.Client.pdb
+D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\56sjNvcsXZh9t5arE5wZz2C2Bc8wsxq1pRTE4677u78=.hash
+D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\fHpWbJpq8CtmD7Uz3Gv98MN4um0YxhdF1vd0EFvtQWo=.hash
+D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\obj\Debug\netstandard2.1\integrity\OAJY1OmbYPevM2KbP5CLj9J1YP9H7ttG1GeWBdORQrM=.hash
