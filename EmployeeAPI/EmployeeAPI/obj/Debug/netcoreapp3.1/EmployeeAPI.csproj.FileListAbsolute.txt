@@ -154,7 +154,6 @@ D:\Blazor\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.csproj.Cor
 D:\Blazor\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cache
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp3.1\appsettings.json
-D:\Blazor\employees\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp3.1\EmployeeAPI.exe
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp3.1\EmployeeAPI.deps.json
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp3.1\EmployeeAPI.runtimeconfig.json
@@ -298,11 +297,11 @@ D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.AssemblyInfo.cs
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.csproj.CoreCompileInputs.cache
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.MvcApplicationPartsAssemblyInfo.cache
-D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.RazorTargetAssemblyInfo.cache
-D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.csproj.CopyComplete
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeAPI.StaticWebAssets.Manifest.cache
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeAPI.StaticWebAssets.xml
+D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\EmployeeAPI.styles.css
+D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.RazorTargetAssemblyInfo.cache
+D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.csproj.CopyComplete
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.dll
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.pdb
 D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.genruntimeconfig.cache
-D:\Blazor\employees\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp3.1\EmployeeAPI.csprojAssemblyReference.cache

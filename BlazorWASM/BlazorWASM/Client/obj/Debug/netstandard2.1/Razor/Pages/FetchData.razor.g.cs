@@ -73,6 +73,13 @@ using BlazorWASM.Client.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 10 "D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\_Imports.razor"
+using BlazorStrap;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 2 "D:\Blazor\employees\BlazorWASM\BlazorWASM\Client\Pages\FetchData.razor"
 using BlazorWASM.Shared;
 

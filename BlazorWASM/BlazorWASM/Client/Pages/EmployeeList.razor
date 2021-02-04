@@ -50,6 +50,6 @@ else
     }
     protected async Task LoadData()
     {
-        empList = await Http.GetJsonAsync<EmployeeInfo[]>("http://localhost:8083/api/EmployeeInfoes");
+        empList = await Http.GetJsonAsync<EmployeeInfo[]>("http://localhost:53164/api/EmployeeInfoes");
     }
 }

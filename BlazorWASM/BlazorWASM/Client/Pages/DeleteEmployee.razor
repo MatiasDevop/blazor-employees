@@ -37,13 +37,13 @@
 
     protected override async Task OnInitializedAsync()
     {
-        emp = await Http.GetJsonAsync<EmployeeInfo>("http://localhost:8083/api/EmployeeInfoes/" + id);
+        emp = await Http.GetJsonAsync<EmployeeInfo>("http://localhost:53164/api/EmployeeInfoes/" + id);
     }
 
 
     protected async Task Delete()
     {
-        await Http.DeleteAsync("http://localhost:8083/api/EmployeeInfoes/" + id);
+        await Http.DeleteAsync("http://localhost:53164/api/EmployeeInfoes/" + id);
         NavigationManager.NavigateTo("employeeList");
     }
     void Cancel()
